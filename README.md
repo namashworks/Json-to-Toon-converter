@@ -29,7 +29,7 @@ TOON (Token-Oriented Object Notation) is a compact data format optimized for tra
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/json-toon-converter.git
+git clone https://github.com/namashworks/json-toon-converter.git
 cd json-toon-converter
 
 # Install dependencies
@@ -147,13 +147,6 @@ json-toon-converter/
 ├── app.py                    # Main application
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
-├── DEPLOYMENT_GUIDE.md       # Detailed deployment instructions
-├── QUICKSTART.md            # 5-minute setup guide
-├── Dockerfile               # Docker configuration
-├── docker-compose.yml       # Docker Compose setup
-├── .gitignore              # Git ignore rules
-└── .streamlit/
-    └── config.toml         # Streamlit configuration
 ```
 
 ---
@@ -201,7 +194,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/json-toon-converter.git
+git clone https://github.com/namashworks/json-toon-converter.git
 cd json-toon-converter
 
 # Create virtual environment
@@ -251,7 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [Open an issue](https://github.com/yourusername/json-toon-converter/issues)
 - **Discussions**: [Join the discussion](https://github.com/yourusername/json-toon-converter/discussions)
-- **Email**: your.email@example.com
+- **Email**: namash.work@gmail.com
 
 ---
 
