@@ -29,8 +29,8 @@ TOON (Token-Oriented Object Notation) is a compact data format optimized for tra
 
 ```bash
 # Clone repository
-git clone https://github.com/namashworks/json-toon-converter.git
-cd json-toon-converter
+git clone https://github.com/namashworks/Json-to-Toon-converter.git
+cd Json-to-Toon-converter
 
 # Install dependencies
 pip install -r requirements.txt
@@ -194,8 +194,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Clone repository
-git clone https://github.com/namashworks/json-toon-converter.git
-cd json-toon-converter
+git clone https://github.com/namashworks/Json-to-Toon-converter.git
+cd Json-to-Toon-converter
 
 # Create virtual environment
 python -m venv venv
