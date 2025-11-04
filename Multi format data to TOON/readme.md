@@ -17,7 +17,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/toon-converter.git
+git clone https://github.com/namashworks/Json-to-Toon-converter.git
 cd toon-converter
 
 # Install dependencies
