@@ -1,0 +1,6 @@
+streamlit
+python-toon
+pandas
+PyYAML
+openpyxl
+tomli
