@@ -9,4 +9,8 @@ streamlit==1.39.0
 pandas==2.2.3
 openpyxl==3.1.5
 pyyaml==6.0.2
+<<<<<<< HEAD
 toon-format==0.3.1
+=======
+toon-format==0.3.1
+>>>>>>> 2489650 (Add latest changes)
