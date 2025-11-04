@@ -1,6 +1,9 @@
+pip==24.2
+setuptools>=70
+wheel>=0.44
+
 streamlit==1.39.0
-python-toon==0.2.3
 pandas==2.2.3
 openpyxl==3.1.5
 pyyaml==6.0.2
-# no tomli needed on Python 3.11+
+python-toon==0.2.3
