@@ -1,10 +1,6 @@
-streamlit>=1.28.0
-python-toon>=0.1.0
-pandas>=2.0.0
-openpyxl>=3.1.0
-pyyaml>=6.0
-<<<<<<< HEAD
-tomli>=2.0.0;python_version<"3.11"
-=======
-tomli>=2.0.0;
->>>>>>> 54c1603 (Add latest changes)
+streamlit==1.39.0
+python-toon==0.2.3
+pandas==2.2.3
+openpyxl==3.1.5
+pyyaml==6.0.2
+# no tomli needed on Python 3.11+
