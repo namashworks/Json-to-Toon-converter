@@ -3,4 +3,8 @@ python-toon>=0.1.0
 pandas>=2.0.0
 openpyxl>=3.1.0
 pyyaml>=6.0
+<<<<<<< HEAD
 tomli>=2.0.0;python_version<"3.11"
+=======
+tomli>=2.0.0;
+>>>>>>> 54c1603 (Add latest changes)
