@@ -1,19 +1,6 @@
-<<<<<<< HEAD
-streamlit
-python-toon
-pandas
-PyYAML
-openpyxl
-tomli
-=======
-streamlit>=1.28.0
-python-toon>=0.1.0
-pandas>=2.0.0
-
-streamlit>=1.28.0
-python-toon>=0.1.0
-pandas>=2.0.0
-openpyxl>=3.1.0
-pyyaml>=6.0
-tomli>=2.0.0;python_version<"3.11"
->>>>>>> 724ed76d73e69c4e21881eefc6dbd7e59ada9126
+streamlit==1.51.0
+python-toon==0.1.2
+pandas==2.3.3
+PyYAML==6.0.2
+openpyxl==3.1.5
+tomli==2.1.0
